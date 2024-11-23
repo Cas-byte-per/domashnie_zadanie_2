@@ -24,10 +24,10 @@ pip install -r requirements.txt
 
 ```json
 {
-  "visualizer_path": "/path/to/mermaid-cli",
-  "package_path": "/path/to/your/package",
-  "output_path": "/path/to/output/directory",
-  "repository_url": "https://github.com/your/repo"
+    "visualizer_path": "C:\\Users\\79624\\AppData\\Roaming\\npm\\mmdc.cmd",
+    "package_path": "C:\\Users\\79624\\dz2",
+    "output_path": "C:\\Users\\79624\\dz2\\output",
+    "repository_url": "https://github.com/Cas-byte-per/domashnie_zadanie_2.git"
 }
 ```
 ### Запуск

@@ -33,7 +33,7 @@ pip install -r requirements.txt
 ### Запуск
 Для запуска инструмента выполните следующую команду:
 ```bash
-python visualizer.py path/to/config.json
+python visualizer.py config.json
 ```
 После этого скрипт выполнит следующие действия:
 - Извлечет зависимости с помощью `pip freeze`.
